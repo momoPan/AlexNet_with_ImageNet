@@ -1,11 +1,5 @@
 # coding: UTF-8
-'''''''''''''''''''''''''''''''''''''''''''''''''''''
-   file name: alexnet.py
-   create time: 2017年03月29日 星期三 17时13分01秒
-   author: Jipeng Huang
-   e-mail: huangjipengnju@gmail.com
-   github: https://github.com/hjptriplebee
-'''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 # based on Frederik Kratzert's alexNet with tensorflow
 import tensorflow as tf
 import numpy as np

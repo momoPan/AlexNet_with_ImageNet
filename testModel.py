@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: UTF-8
-'''''''''''''''''''''''''''''''''''''''''''''''''''''
-   file name: testModel.py
-   create time: 2017年03月31日 星期五 15时48分05秒
-   author: Jipeng Huang
-   e-mail: huangjipengnju@gmail.com
-   github: https://github.com/hjptriplebee
-'''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 import os
 import urllib.request
 import argparse
